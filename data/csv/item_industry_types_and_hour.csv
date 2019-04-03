@@ -1,0 +1,190 @@
+item,name
+0,Information processing service and software company_0-5
+1,Information processing service and software company_6
+2,Information processing service and software company_7
+3,Information processing service and software company_8-11
+4,Information processing service and software company_12-13
+5,Information processing service and software company_14-17
+6,Information processing service and software company_18
+7,Information processing service and software company_19
+8,Information processing service and software company_20-24
+9,"Cosmetics, toothpaste, detergent_0-5"
+10,"Cosmetics, toothpaste, detergent_6"
+11,"Cosmetics, toothpaste, detergent_7"
+12,"Cosmetics, toothpaste, detergent_8-11"
+13,"Cosmetics, toothpaste, detergent_12-13"
+14,"Cosmetics, toothpaste, detergent_14-17"
+15,"Cosmetics, toothpaste, detergent_18"
+16,"Cosmetics, toothpaste, detergent_19"
+17,"Cosmetics, toothpaste, detergent_20-24"
+18,"Various educational services, universities, etc._0-5"
+19,"Various educational services, universities, etc._6"
+20,"Various educational services, universities, etc._7"
+21,"Various educational services, universities, etc._8-11"
+22,"Various educational services, universities, etc._12-13"
+23,"Various educational services, universities, etc._14-17"
+24,"Various educational services, universities, etc._18"
+25,"Various educational services, universities, etc._19"
+26,"Various educational services, universities, etc._20-24"
+27,food_0-5
+28,food_6
+29,food_7
+30,food_8-11
+31,food_12-13
+32,food_14-17
+33,food_18
+34,food_19
+35,food_20-24
+36,Telephone companies and telecommunications service_0-5
+37,Telephone companies and telecommunications service_6
+38,Telephone companies and telecommunications service_7
+39,Telephone companies and telecommunications service_8-11
+40,Telephone companies and telecommunications service_12-13
+41,Telephone companies and telecommunications service_14-17
+42,Telephone companies and telecommunications service_18
+43,Telephone companies and telecommunications service_19
+44,Telephone companies and telecommunications service_20-24
+45,"Finance, insurance and securities_0-5"
+46,"Finance, insurance and securities_6"
+47,"Finance, insurance and securities_7"
+48,"Finance, insurance and securities_8-11"
+49,"Finance, insurance and securities_12-13"
+50,"Finance, insurance and securities_14-17"
+51,"Finance, insurance and securities_18"
+52,"Finance, insurance and securities_19"
+53,"Finance, insurance and securities_20-24"
+54,"Transportation, tourism and entertainment_0-5"
+55,"Transportation, tourism and entertainment_6"
+56,"Transportation, tourism and entertainment_7"
+57,"Transportation, tourism and entertainment_8-11"
+58,"Transportation, tourism and entertainment_12-13"
+59,"Transportation, tourism and entertainment_14-17"
+60,"Transportation, tourism and entertainment_18"
+61,"Transportation, tourism and entertainment_19"
+62,"Transportation, tourism and entertainment_20-24"
+63,Real estate and construction_0-5
+64,Real estate and construction_6
+65,Real estate and construction_7
+66,Real estate and construction_8-11
+67,Real estate and construction_12-13
+68,Real estate and construction_14-17
+69,Real estate and construction_18
+70,Real estate and construction_19
+71,Real estate and construction_20-24
+72,Pharmaceutical and hygiene products_0-5
+73,Pharmaceutical and hygiene products_6
+74,Pharmaceutical and hygiene products_7
+75,Pharmaceutical and hygiene products_8-11
+76,Pharmaceutical and hygiene products_12-13
+77,Pharmaceutical and hygiene products_14-17
+78,Pharmaceutical and hygiene products_18
+79,Pharmaceutical and hygiene products_19
+80,Pharmaceutical and hygiene products_20-24
+81,Internet information site and eye - Le service_0-5
+82,Internet information site and eye - Le service_6
+83,Internet information site and eye - Le service_7
+84,Internet information site and eye - Le service_8-11
+85,Internet information site and eye - Le service_12-13
+86,Internet information site and eye - Le service_14-17
+87,Internet information site and eye - Le service_18
+88,Internet information site and eye - Le service_19
+89,Internet information site and eye - Le service_20-24
+90,Around parts of fiber-only_0-5
+91,Around parts of fiber-only_6
+92,Around parts of fiber-only_7
+93,Around parts of fiber-only_8-11
+94,Around parts of fiber-only_12-13
+95,Around parts of fiber-only_14-17
+96,Around parts of fiber-only_18
+97,Around parts of fiber-only_19
+98,Around parts of fiber-only_20-24
+99,· Business Machines Office supplies_0-5
+100,· Business Machines Office supplies_6
+101,· Business Machines Office supplies_7
+102,· Business Machines Office supplies_8-11
+103,· Business Machines Office supplies_12-13
+104,· Business Machines Office supplies_14-17
+105,· Business Machines Office supplies_18
+106,· Business Machines Office supplies_19
+107,· Business Machines Office supplies_20-24
+108,Electric appliances_0-5
+109,Electric appliances_6
+110,Electric appliances_7
+111,Electric appliances_8-11
+112,Electric appliances_12-13
+113,Electric appliances_14-17
+114,Electric appliances_18
+115,Electric appliances_19
+116,Electric appliances_20-24
+117,Hobby Leisure Products_0-5
+118,Hobby Leisure Products_6
+119,Hobby Leisure Products_7
+120,Hobby Leisure Products_8-11
+121,Hobby Leisure Products_12-13
+122,Hobby Leisure Products_14-17
+123,Hobby Leisure Products_18
+124,Hobby Leisure Products_19
+125,Hobby Leisure Products_20-24
+126,· Goods transport machines_0-5
+127,· Goods transport machines_6
+128,· Goods transport machines_7
+129,· Goods transport machines_8-11
+130,· Goods transport machines_12-13
+131,· Goods transport machines_14-17
+132,· Goods transport machines_18
+133,· Goods transport machines_19
+134,· Goods transport machines_20-24
+135,Drink hobby goods_0-5
+136,Drink hobby goods_6
+137,Drink hobby goods_7
+138,Drink hobby goods_8-11
+139,Drink hobby goods_12-13
+140,Drink hobby goods_14-17
+141,Drink hobby goods_18
+142,Drink hobby goods_19
+143,Drink hobby goods_20-24
+144,· Shop and department stores trading company_0-5
+145,· Shop and department stores trading company_6
+146,· Shop and department stores trading company_7
+147,· Shop and department stores trading company_8-11
+148,· Shop and department stores trading company_12-13
+149,· Shop and department stores trading company_14-17
+150,· Shop and department stores trading company_18
+151,· Shop and department stores trading company_19
+152,· Shop and department stores trading company_20-24
+153,Mail order company_0-5
+154,Mail order company_6
+155,Mail order company_7
+156,Mail order company_8-11
+157,Mail order company_12-13
+158,Mail order company_14-17
+159,Mail order company_18
+160,Mail order company_19
+161,Mail order company_20-24
+162,"Authorities, local governments, religious groups_0-5"
+163,"Authorities, local governments, religious groups_6"
+164,"Authorities, local governments, religious groups_7"
+165,"Authorities, local governments, religious groups_8-11"
+166,"Authorities, local governments, religious groups_12-13"
+167,"Authorities, local governments, religious groups_14-17"
+168,"Authorities, local governments, religious groups_18"
+169,"Authorities, local governments, religious groups_19"
+170,"Authorities, local governments, religious groups_20-24"
+180,Hospital Este-beauty shop_0-5
+181,Hospital Este-beauty shop_6
+182,Hospital Este-beauty shop_7
+183,Hospital Este-beauty shop_8-11
+184,Hospital Este-beauty shop_12-13
+185,Hospital Este-beauty shop_14-17
+186,Hospital Este-beauty shop_18
+187,Hospital Este-beauty shop_19
+188,Hospital Este-beauty shop_20-24
+189,Energy and raw materials_0-5
+190,Energy and raw materials_6
+191,Energy and raw materials_7
+192,Energy and raw materials_8-11
+193,Energy and raw materials_12-13
+194,Energy and raw materials_14-17
+195,Energy and raw materials_18
+196,Energy and raw materials_19
+197,Energy and raw materials_20-24
